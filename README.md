@@ -42,7 +42,7 @@
 ``` go run main.go```
 
 
-#### Hurrah your website is running
+#### Hurrah your server is running
 ## Thank you
 
 
