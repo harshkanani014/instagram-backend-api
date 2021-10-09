@@ -1,6 +1,6 @@
 # Instagram-Backend-API
 
-## Postman API Documentation and API collection link : https://bit.ly/3zwyhfW
+## Postman API Documentation and API collection link : https://bit.ly/3uXEIal
 # Project Description
 #### Developed a API to create, get USERs and POSTS of instagram that is basic functional API of instagram using golang and mongodb.
 
